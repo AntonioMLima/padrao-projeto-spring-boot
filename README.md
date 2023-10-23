@@ -3,9 +3,7 @@
 
 Neste desáfio eu explorei alguns Design Patterns como Singleton, Strategy e Facade.
 
-Esse projeto é uma API REST que recupera alguns dados da Unidade Ferederativa do cliente com base no código da mesma.
-
-É possivel visualizar os códigos correspondentes das UFs [aqui](https://www.ibge.gov.br/explica/codigos-dos-municipios.php).
+Esse projeto é uma API REST que recupera alguns dados da Unidade Ferederativa do cliente com base no [código](https://www.ibge.gov.br/explica/codigos-dos-municipios.php) da mesma.
 
 A documentação das APIs externas usadas encontra-se [aqui](https://servicodados.ibge.gov.br/api/docs/localidades#api-_).
 
